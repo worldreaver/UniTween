@@ -283,7 +283,7 @@ Tracking Tween complete using DoOnCompleted or override of method ex `SubscribeT
 - [![Utility](https://img.shields.io/badge/Utility-1.2.0+-brightgreen.svg?style=flat&cacheSeconds=2592000)](https://github.com/worldreaver/Utility/tree/upm/v1.2.0)
 
 
-##License
+## License
 - Under the MIT license
 - Some code is borrowed from @AnimeRx
 - Thanks for *kyubuns*
