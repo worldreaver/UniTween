@@ -1,0 +1,18 @@
+{
+    "name": "wr@unitween",
+    "references": [
+        "GUID:560b04d1a97f54a4e82edc0cbbb69285",
+        "GUID:9772734022e0622448499eaeb6c5ba89",
+        "GUID:5a0880b521237d84798ba6a3b282a762",
+        "GUID:7481d28e73f83bf4f9ebc1dca301c81d"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+  "name": "com.worldreaver.unitween",
+  "displayName": "UniTween",
+  "description": "Rx Tween Animation Library for Unity",
+  "version": "0.0.1",
+  "unity": "2019.2",
+  "author": "yenmoc <phongsoyenmoc.diep@gmail.com> (https://github.com/phongsoyenmoc)",
+  "license": "MIT",
+  "dependencies": {
+    "com.worldreaver.morelinq": "ssh://git@github.com/worldreaver/MoreLINQ#3.3.3",
+    "com.worldreaver.unirx": "ssh://git@github.com/worldreaver/UniRx#7.1.1",
+    "com.worldreaver.unirxex": "ssh://git@github.com/worldreaver/UniRxEx#1.1.0",
+    "com.worldreaver.utility": "ssh://git@github.com/worldreaver/Utility#1.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/worldreaver/UniTween"
+  }
+}
