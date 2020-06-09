@@ -4,12 +4,11 @@
     "com.coffee.upm-git-extension": "https://github.com/mob-sakai/UpmGitExtension.git",
     "com.unity.collab-proxy": "1.2.16",
     "com.unity.ide.rider": "1.1.4",
-    "com.unity.ide.vscode": "1.1.4",
-    "com.unity.test-framework": "1.1.11",
+    "com.unity.ide.vscode": "1.2.0",
+    "com.unity.test-framework": "1.1.14",
     "com.unity.textmeshpro": "2.0.1",
     "com.unity.timeline": "1.2.12",
     "com.unity.ugui": "1.0.0",
-    "com.worldreaver.morelinq": "git+https://github.com/worldreaver/MoreLINQ#upm",
     "com.worldreaver.unirx": "git+https://github.com/worldreaver/UniRx#upm",
     "com.worldreaver.unirxex": "git+https://github.com/worldreaver/UniRxEx#upm",
     "com.worldreaver.utility": "git+https://github.com/worldreaver/Utility#upm",
@@ -53,10 +52,6 @@
     "com.coffee.upm-git-extension": {
       "revision": "HEAD",
       "hash": "aa9f6ea79913e7e2749edea528c42f2f700ac401"
-    },
-    "com.worldreaver.morelinq": {
-      "revision": "upm",
-      "hash": "ebc9547e4129f9805bd5d69866fbcf7a36404221"
     },
     "com.worldreaver.unirxex": {
       "revision": "upm",
