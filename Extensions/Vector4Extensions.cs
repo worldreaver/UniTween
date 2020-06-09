@@ -3,7 +3,6 @@ using System.Collections.Generic;
 using System.Linq;
 using UniRx;
 using UnityEngine;
-using Worldreaver.LinqFaster;
 
 namespace Worldreaver.UniTween
 {
@@ -52,12 +51,12 @@ namespace Worldreaver.UniTween
         
         public static IObservable<Vector4> Sum(this IObservable<List<Vector4>> source)
         {
-            return source.Select(x => { return x.AggregateFast(new Vector4(), (current, xx) => current + xx); });
+            return source.Select(x => { return x.Aggregate(new Vector4(), (current, xx) => current + xx); });
         }
 
         public static IObservable<Vector4> Sum(this IObservable<Vector4[]> source)
         {
-            return source.Select(x => { return x.AggregateFast(new Vector4(), (current, xx) => current + xx); });
+            return source.Select(x => { return x.Aggregate(new Vector4(), (current, xx) => current + xx); });
         }
     }
 }
